@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ServletContexAttributeListener:war">
+    <output-path>$PROJECT_DIR$/../Program Study/JavaWeb/17_ServletContexAttributeListener/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ServletContexAttributeListener</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ServletContexAttributeListener-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ServletContexAttributeListener:war exploded" />
+    </root>
+  </artifact>
+</component>

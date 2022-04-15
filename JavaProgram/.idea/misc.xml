@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/demo" />
+    <file type="web" url="file://$PROJECT_DIR$/../Program Study/JavaWeb" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/website_01/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/website_02/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/website_03/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/website_04/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/On-line_examination_system/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/重定向解决方案/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/请求转发解决方案/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/全局作用域共享数据/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/Cookies/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/Cookie实现办卡点餐/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/Session购物车实例/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/HttpServletRequest实现数据共享/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/16_ServletContextListener/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/17_ServletContexAttributeListener/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/18_过滤器检测请求合法性/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/19_过滤器对请求对象进行增强服务/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/20_JSP文件使用展示/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/21_JSP文件Java命令书写规则/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/22_JSP文件中内置的Java对象/pom.xml" />
+        <option value="$PROJECT_DIR$/../Program Study/JavaWeb/23_Servlet于JSP联合调用案例/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

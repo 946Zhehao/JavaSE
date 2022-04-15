@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="On-line_examination_system:war">
+    <output-path>$PROJECT_DIR$/../Program Study/JavaWeb/On-line_examination_system/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>On-line_examination_system</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="On-line_examination_system-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="On-line_examination_system:war exploded" />
+    </root>
+  </artifact>
+</component>

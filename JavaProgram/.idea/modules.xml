@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/重定向解决方案/ChongDingXiang.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/重定向解决方案/ChongDingXiang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/Cookie实现办卡点餐/Cookie_Order.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/Cookie实现办卡点餐/Cookie_Order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/Cookies/Cookies.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/Cookies/Cookies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/18_过滤器检测请求合法性/Filter.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/18_过滤器检测请求合法性/Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/19_过滤器对请求对象进行增强服务/Filter02.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/19_过滤器对请求对象进行增强服务/Filter02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/HttpServletRequest实现数据共享/HttpServletRequest.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/HttpServletRequest实现数据共享/HttpServletRequest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCTest/JDBCTest.iml" filepath="$PROJECT_DIR$/JDBCTest/JDBCTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/20_JSP文件使用展示/JSPTest.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/20_JSP文件使用展示/JSPTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/21_JSP文件Java命令书写规则/JSP_Java.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/21_JSP文件Java命令书写规则/JSP_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/22_JSP文件中内置的Java对象/JSP_JavaObject.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/22_JSP文件中内置的Java对象/JSP_JavaObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/23_Servlet于JSP联合调用案例/JSP_Servlet.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/23_Servlet于JSP联合调用案例/JSP_Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/On-line_examination_system/On-line_examination_system.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/On-line_examination_system/On-line_examination_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/请求转发解决方案/QingQiuZhuanFa.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/请求转发解决方案/QingQiuZhuanFa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/17_ServletContexAttributeListener/ServletContexAttributeListener.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/17_ServletContexAttributeListener/ServletContexAttributeListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/全局作用域共享数据/ServletContext.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/全局作用域共享数据/ServletContext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/16_ServletContextListener/ServletContextListener.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/16_ServletContextListener/ServletContextListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/Session购物车实例/Session.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/Session购物车实例/Session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Start.iml" filepath="$PROJECT_DIR$/Start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/website_01/website_01.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/website_01/website_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/website_02/website_02.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/website_02/website_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/website_03/website_03.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/website_03/website_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Study/JavaWeb/website_04/website_04.iml" filepath="$PROJECT_DIR$/../Program Study/JavaWeb/website_04/website_04.iml" />
+    </modules>
+  </component>
+</project>
